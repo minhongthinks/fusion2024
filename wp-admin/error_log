@@ -1,0 +1,66 @@
+[29-Apr-2024 05:50:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:272
+Stack trace:
+#0 /home3/lavishsi/fusion.lavish-site.com/wp-includes/class-wp-hook.php(324): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /home3/lavishsi/fusion.lavish-site.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/lavishsi/fusion.lavish-site.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home3/lavishsi/fusion.lavish-site.com/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /home3/lavishsi/fusion.lavish-site.com/wp-admin/admin.php(239): require_once('/home3/lavishsi...')
+#5 {main}
+  thrown in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 272
+[29-Apr-2024 05:50:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:272
+Stack trace:
+#0 /home3/lavishsi/fusion.lavish-site.com/wp-includes/class-wp-hook.php(324): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /home3/lavishsi/fusion.lavish-site.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/lavishsi/fusion.lavish-site.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home3/lavishsi/fusion.lavish-site.com/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /home3/lavishsi/fusion.lavish-site.com/wp-admin/admin.php(239): require_once('/home3/lavishsi...')
+#5 {main}
+  thrown in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 272
+[29-Apr-2024 05:50:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:272
+Stack trace:
+#0 /home3/lavishsi/fusion.lavish-site.com/wp-includes/class-wp-hook.php(324): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /home3/lavishsi/fusion.lavish-site.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/lavishsi/fusion.lavish-site.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home3/lavishsi/fusion.lavish-site.com/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /home3/lavishsi/fusion.lavish-site.com/wp-admin/admin.php(239): require_once('/home3/lavishsi...')
+#5 {main}
+  thrown in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 272
+[29-Apr-2024 05:50:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:272
+Stack trace:
+#0 /home3/lavishsi/fusion.lavish-site.com/wp-includes/class-wp-hook.php(324): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /home3/lavishsi/fusion.lavish-site.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/lavishsi/fusion.lavish-site.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home3/lavishsi/fusion.lavish-site.com/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /home3/lavishsi/fusion.lavish-site.com/wp-admin/admin.php(239): require_once('/home3/lavishsi...')
+#5 {main}
+  thrown in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 272
+[29-Apr-2024 05:50:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:272
+Stack trace:
+#0 /home3/lavishsi/fusion.lavish-site.com/wp-includes/class-wp-hook.php(324): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /home3/lavishsi/fusion.lavish-site.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/lavishsi/fusion.lavish-site.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home3/lavishsi/fusion.lavish-site.com/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /home3/lavishsi/fusion.lavish-site.com/wp-admin/admin.php(239): require_once('/home3/lavishsi...')
+#5 {main}
+  thrown in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 272
+[29-Apr-2024 05:58:53 UTC] PHP Fatal error:  Uncaught Ai1wm_Not_Writable_Exception: Unable to write to: /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/storage/error.log. <a href="https://help.servmask.com/knowledgebase/invalid-file-permissions/" target="_blank">Technical details</a> in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/functions.php:1496
+Stack trace:
+#0 /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-log.php(46): ai1wm_write(Resource id #13, 'Apr 29 2024 05:...')
+#1 /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-handler.php(42): Ai1wm_Log::error(Array)
+#2 [internal function]: Ai1wm_Handler::error(2, 'mkdir(): Disk q...', '/home3/lavishsi...', 49)
+#3 /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/functions.php(49): mkdir('/home3/lavishsi...', 511, true)
+#4 /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-import-controller.php(99): ai1wm_storage_path(Array)
+#5 /home3/lavishsi/fusion.lavish-site.com/wp-includes/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)
+#6 /home3/lavishsi/fusion.lavish-site.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 /home3/lavishsi/fusion.lavish-site.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home3/lavishsi/fusion.lavish-site.com/wp-admin/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')
+#9 {main}
+  thrown in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/functions.php on line 1496
+[29-Apr-2024 05:59:07 UTC] PHP Fatal error:  Uncaught Ai1wm_Not_Writable_Exception: Unable to write to: /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/storage/error.log. <a href="https://help.servmask.com/knowledgebase/invalid-file-permissions/" target="_blank">Technical details</a> in /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/functions.php:1496
+Stack trace:
+#0 /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-log.php(46): ai1wm_write(Resource id #13, 'Apr 29 2024 05:...')
+#1 /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-handler.php(42): Ai1wm_Log::error(Array)
+#2 [internal function]: Ai1wm_Handler::error(2, 'mkdir(): Disk q...', '/home3/lavishsi...', 49)
+#3 /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/functions.php(49): mkdir('/home3/lavishsi...', 511, true)
+#4 /home3/lavishsi/fusion.lavish-site.com/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-import-controller.php(99): ai1wm_storage_path(Array)
+#5 /home3/lavishsi/fusi
